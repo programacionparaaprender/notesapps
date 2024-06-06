@@ -34,7 +34,13 @@
 
 ### 6. Managing Screens To Be Rendered
 
-### 7. 
+### 7. Designing Back Button
+
+### 8. Working On Add Note Screen
+
+### 9. Storing Items In State
+
+### 10. Designing List Of Items
 
 # Welcome to your Expo app 👋
 
