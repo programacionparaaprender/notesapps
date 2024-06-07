@@ -2,6 +2,9 @@
 # cursos
 >- https://www.udemy.com/course/react-native-full-course/learn/lecture/34770896#overview
 
+# actualizar dependencias
+>- https://stackoverflow.com/questions/73209711/some-dependencies-are-incompatible-with-the-installed-expo-package-version
+
 ## Sección 1: Introducción
 
 ### 1. Introducción
@@ -37,10 +40,24 @@
 ### 7. Designing Back Button
 
 ### 8. Working On Add Note Screen
+>- https://reactnative.dev/docs/textinput
 
 ### 9. Storing Items In State
+>- https://reactnative.dev/docs/textinput
+>- https://es.react.dev/learn/updating-arrays-in-state
+
 
 ### 10. Designing List Of Items
+>- https://reactnative.dev/docs/flatlist
+
+
+### 11. Optimization - Removing Back Button On Home Screen
+
+
+
+### 12. Summary
+
+
 
 # Welcome to your Expo app 👋
 
